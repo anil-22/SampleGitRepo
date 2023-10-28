@@ -1,3 +1,3 @@
 # SampleGitRepo
 
-Learning Git Commands
+# Repository to Learn and practice Git Commands
